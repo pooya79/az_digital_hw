@@ -1,4 +1,2 @@
-## AZ DIGITAL HOMEWORKS & PROJECTS
-### Homeworks are in [hw](https://github.com/pooya79/az_digital_hw/tree/hw 'Homeworks branch') branch.
-### Project is in [project](https://github.com/pooya79/az_digital_hw/tree/project 'Project branch') branch.
-### Video & Codes About Controlling Real Robot in Lab is in [lab](https://github.com/pooya79/az_digital_hw/tree/lab 'Lab branch') branch.
+# AZ DIGITAL LAB SESSION
+در این برنچ ویدیو و کد مربوط به کنترل ربات واقعی در جلسه حضوری قرار دارد. کد قرار داده شده به کنترل حرکت و چرخش ربات با استفاده از کلید‌های wasd می‌پردازد و با کلید m ربات را متوقف و با کلید q کل برنامه را متوقف می‌کند.
