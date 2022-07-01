@@ -1,4 +1,4 @@
-# AZ DIGITAL HOME WORK
+# AZ DIGITAL HOMEWORKS
 
 * ### Moving in One Direction
 کد و فیلم مربوط به این قسمت در پوشه one direction قرار دارد. با قرار دادن این فایل به جای فایل robot1 در تکلیف ارائه شده ربات در یک جهت مستقیم با یک کنترلر p حرکت کرده و در موقعیت مطلوب می‌ایستد.<br/>
