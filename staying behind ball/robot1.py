@@ -39,7 +39,6 @@ class MyRobot1(RCJSoccerRobot):
                 max_ball_signal_strength = 275 # approximately by running some tests
                 error_angle_direction = 1 - ball_data['direction'][0]
                 error_distance = max_ball_signal_strength - 40 - ball_data['strength'] # stay away a little from ball
-                print(error_distance)
 
                 if math.fabs(error_angle_direction) < 0.1:
                     in_ball_direction = True
